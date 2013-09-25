@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./corewar ../champions/tests/raid_aerien.cor  ../champions/tests/raid_aerien.cor  ../champions/tests/raid_aerien.cor  ../champions/tests/raid_aerien.cor  ../champions/tests/raid_aerien.cor ../champions/tests/raid_aerien.cor  ../champions/tests/raid_aerien.cor  ../champions/tests/raid_aerien.cor   ../champions/tests/raid_aerien.cor ../champions/tests/raid_aerien.cor ../champions/tests/raid_aerien.cor   ../champions/tests/raid_aerien.cor  ../champions/tests/raid_aerien.cor    ../champions/tests/raid_aerien.cor  ../champions/tests/raid_aerien.cor ../champions/tests/raid_aerien.cor  ../champions/tests/raid_aerien.cor   ../champions/tests/raid_aerien.cor  ../champions/tests/raid_aerien.cor   ../champions/tests/raid_aerien.cor
