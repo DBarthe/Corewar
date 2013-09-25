@@ -4,17 +4,17 @@ Corewar
 A battle of programs in a virtual machine
 
 
-Compile:
-  at the root of project, to compile the VM(graphic) and the ASM:
-    make
-  in asm/, to compile just the ASM:
-    make
-  in corewar/:
-    make # just the console mode
-    make Bonus # compile with the graphic mode (SDL+SDL_ttf)
+Compile:<br/>
+  at the root of project, to compile the VM(graphic) and the ASM:<br/>
+    make<br/>
+  in asm/, to compile just the ASM:<br/>
+    make<br/>
+  in corewar/:<br/>
+    make # just the console mode<br/>
+    make Bonus # compile with the graphic mode (SDL+SDL_ttf)<br/>
     
-Run:
-  ./corewar [-dump numbers_of_cycles] [ [-a load_address] champion1.cor] ...
+Run:<br/>
+  ./corewar [-dump numbers_of_cycles] [ [-a load_address] champion1.cor] ... <br/>
     -> -dump n: dumps the memory after n cycles and closes the war.
     
 Champions are available in champions/tests/ or corewar/champs/ and have the extension ".cor"
