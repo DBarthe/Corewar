@@ -24,7 +24,7 @@ Usage: ./corewar [-dump numbers_of_cycles] [ [-a load_address] champion1.cor] ..
 $ ./corewar champs/Octobre_Rouge_V4.2.cor champs/42.cor champs/raid_aerien.cor
 ~~~
 
-There is also an asm in the its eponym directory. Useful to make your own champion !
+There is also an asm in its eponym directory. Useful to make your own champion !
 
 
 
