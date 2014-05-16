@@ -5,7 +5,7 @@
 ## Login   <defrei_r@epitech.net>
 ## 
 ## Started on  Sun Jan 27 17:34:18 2013 raphael defreitas
-## Last update Sun Mar 31 23:10:26 2013 barthelemy delemotte
+## Last update Fri May 16 02:01:46 2014 Barthelemy Delemotte
 ##
 
 NAME		=	corewar
@@ -157,7 +157,7 @@ LDFLAGS		=	$(CFLAGS)
 
 CC		=	gcc
 
-all		:	$(NAME)
+all		:	Bonus
 
 $(NAME)		:	$(OBJ)
 			$(CC) -o $(NAME) $(OBJ) $(LDFLAGS)
